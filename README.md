@@ -2,7 +2,7 @@
 Doing RAG for Finance using LLama2. Highly recommend you run this in a GPU accelerated environment. I used a A100-80GB GPU on Runpod for the video!
 
 ## See it live and in action 📺
-[![Tutorial](https://i.imgur.com/lqMC3K7.png)](https://youtu.be/abc123 'Tutorial')
+[![Tutorial](https://i.imgur.com/lqMC3K7.png)](https://youtu.be/SedGB8m2XLM 'Tutorial')
 
 # Startup 🚀
 1. Clone this repo `git clone https://github.com/nicknochnack/Llama2RAG`
